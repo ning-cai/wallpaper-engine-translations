@@ -1,8 +1,8 @@
 {
-    "ui_modal_installationpath_error_title": "Wrong Installation Path registered in Windows",
+    "ui_modal_installationpath_error_title": "在Windows中注册了错误的安装地址",
     "ui_modal_installationpath_error_body": "It looks like the program files of Wallpaper Engine have been moved after the installation. This breaks the auto start function and causes a number of problems.<br/><br/>You are currently running Wallpaper Engine from <b>{{runPath}}</b> but {{{Platform}}} has installed Wallpaper Engine to <b>{{steamPath}}</b>. The auto start needs to be updated to use {{{Platform}}}'s correct installation path or this message will continue to appear.<br/><br/>Fix this now?",
     "ui_modal_installationpath_fix_auto_start": "Fix auto start",
-    "ui_modal_installationpath_disable_auto_start": "Disable auto start",
+    "ui_modal_installationpath_disable_auto_start": "取消自动开始",
     "ui_browse_advertise_explore": "Click here to discover new wallpapers from the {{{Host}}}!",
     "ui_browse_advertise_workshop": "Click here to search the {{{Host}}} in detail!",
     "ui_browse_steam_offline_notice": "<b>{{{PLATFORM}}} {{{Host}}}</b> servers are <b>OFFLINE</b>. You are browsing an emergency backup from {{date}}. Please wait a few hours for the company of <b>{{{PLATFORM}}} ({{{PROVIDER}}})</b> to fix the <b>{{{PLATFORM}}} {{{Host}}}</b> servers again.",
